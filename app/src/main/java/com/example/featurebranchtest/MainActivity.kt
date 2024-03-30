@@ -41,6 +41,6 @@ fun Greeting(numberTask: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     FeatureBranchTestTheme {
-        Greeting("Android")
+        Greeting("02")
     }
 }
